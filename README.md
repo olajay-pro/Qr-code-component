@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/responisive-qr-code-page-a8M8i7lsjx)
-- Live Site URL: [](https://qr-code-component-git-main-olajay-pros-projects.vercel.app/)
+- Solution URL: [On Frontend Mentor - click here](https://www.frontendmentor.io/solutions/responisive-qr-code-page-a8M8i7lsjx)
+- Live Site URL: [On Vercel Live site](https://qr-code-component-git-main-olajay-pros-projects.vercel.app/)
 
 ### Built with
 
